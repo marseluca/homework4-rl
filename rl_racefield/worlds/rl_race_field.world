@@ -147,7 +147,7 @@
     <include>
       <name>tool_0_tag</name>
       <uri>model://marker_new</uri>
-      <pose>-17 8.2 0.5 0 1.57 3.14</pose>
+      <pose>-17 8.2 0.2 0 1.57 3.14</pose>
     </include>
     
   

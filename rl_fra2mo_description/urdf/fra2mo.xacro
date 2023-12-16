@@ -17,6 +17,7 @@
     <xacro:lidar_gazebo_sensor parent="lidar_link" />
   </xacro:if>
   <!-- Uncomment if you want to add also a D435 camera -->
+  
   <!-- RGBD Sensor -->
   <xacro:if value="${DEPTH}" > 
     <xacro:d435_gazebo_sensor parent="d435_link" />
